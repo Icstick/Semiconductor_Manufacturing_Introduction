@@ -13,7 +13,7 @@
 
 </div>
 
-An open, beginner-friendly book that follows one silicon wafer from sand, through the fab, test and packaging, until it becomes a chip. It skips heavy physics and focuses on process flow, terminology and know-how from the fab floor, with term boxes and know-how boxes in every chapter. No background in semiconductor physics is needed.
+An open, beginner-friendly book that follows one silicon wafer from sand, through the fab, test and packaging, until it becomes a chip. There are no formulas, but every chapter explains the mechanism behind the step, gives you the order of magnitude to hold on to, tells you what goes wrong when it is done badly, and shows how each step is coupled to the one before and after it. Term boxes and know-how boxes sit in every chapter. No background in semiconductor physics is needed.
 
 ---
 
