@@ -161,7 +161,7 @@
 | Mask / Reticle | — | 掩模版 | 光罩 | 带有一层电路图形的石英板 | 4 |
 | Material Review Board | MRB | 物料审查会议 | 物料審查會議 | 跨部门判定不合格品处置方式的会议 | 18 |
 | Mature Node | — | 成熟工艺 | 成熟製程 | 已量产多年、成本较低的工艺世代 | 14 |
-| Memory Controller | — | 内存控制器 | 記憶體控制器 | 控制 DRAM 读写、刷新与调度的电路 | 13、24 |
+| Memory Controller | — | 存储器控制器 | 記憶體控制器 | 控制 DRAM 读写、刷新与调度的电路 | 13、24 |
 | Metal-Oxide-Semiconductor Field-Effect Transistor | MOSFET | 金属氧化物半导体场效应晶体管 | 金屬氧化物半導體場效電晶體 | 以栅极电压控制沟道导通的晶体管 | 2 |
 | Metrology | — | 测量 | 量測 | 测量膜厚、线宽等具体数值 | 15 |
 | Micro Bump | — | 微凸块 | 微凸塊 | 间距约数十微米的细小凸块，用于芯片堆叠 | 13、21 |
